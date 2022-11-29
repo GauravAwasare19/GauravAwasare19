@@ -1,5 +1,5 @@
  <ul type="square">
- <li> I'm a 2nd year Undergraduate Student of Information Technology at International Institute Of Information Technology Pune! 
+ <li> I'm a 3rd year Undergraduate Student of Information Technology at International Institute Of Information Technology Pune! 
  </li>
   <li> I'm a tech geek exploring different tech stacks</li>
   <li>I'm always happy to collaborate on different projects
@@ -8,8 +8,8 @@
   <h2 align="center">✨ About me  ✨</h2>
 <div>  <ul>
   <img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt="null" align="right" height="200" width="250">
-<li> 👀 I’m interested in Web Development ,Cloud Computing  and blockchain</li>
-<li> 🌱 I’m currently learning JavaScript and UI/UX tools</li>
+<li> 👀 I’m interested in Web Development ,Cloud Computing  and Blockchain</li>
+<li> 🌱 I’m currently learning ReactJs and UI/UX tools</li>
  <li> 🌱 I'm a Cloud Enthusiast </li>
  <li>💞️ I’m looking to collaborate on development and Frontend projects</li>
   <li> 👀Upgrading my DSA knowledge
@@ -39,7 +39,7 @@
 <h2 align="center">👀Github Statistics👀</h2>
 
 <hr>
-<h2 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connecct with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"></h2>
+<h2 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"></h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/gaurav-awasare-a6a200238/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/avishkar2319"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
