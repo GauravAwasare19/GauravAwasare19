@@ -46,5 +46,10 @@
 </p>
 <hr>
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=SmileGaurav&label=PROFILE+VIEWS&style=flat-square&color=blue")
+   <img src="https://komarev.com/ghpvc/?username=GauravAwasare19&label=PROFILE+VIEWS&style=flat-square&color=blue")
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravAwasare19&show_icons=true&locale=en&layout=compact" alt="GauravAwasare19" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravAwasare19&show_icons=true&locale=en" alt="GauravAwasare19" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravAwasare19&" alt="GauravAwasare19" /></p>
