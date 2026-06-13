@@ -1,5 +1,6 @@
  <ul type="square">
   </ul>
+  <h2 align="center">Gaurav Awasare</h2>
   <hr>
   <h2 align="center">✨ About me  ✨</h2>
 <div>  <ul>
